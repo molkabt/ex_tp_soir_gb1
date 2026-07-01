@@ -1,1 +1,2 @@
 1er jour : formation IA generative est validée
+2eme jour : formation machine learning 
